@@ -1,0 +1,12 @@
+    1  touch README.md
+    2  git commit -m "initial commit"
+    3  nano README.md
+    4  git log
+    5  git branch milkshake-flavours
+    6  git checkout milkshake-flavours
+    7  nano milkshakes.md
+    8  git checkout main
+    9  git branch history
+   10  git checkout history
+   11  git log
+   12  history > history.txt
